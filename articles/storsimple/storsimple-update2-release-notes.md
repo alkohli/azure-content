@@ -12,7 +12,7 @@
    ms.topic="article"
    ms.tgt_pltfrm="NA"
    ms.workload="TBD"
-   ms.date="01/04/2016"
+   ms.date="01/27/2016"
    ms.author="v-sharos" />
 
 # StorSimple 8000 Series Update 2 release notes  
@@ -21,7 +21,7 @@
 
 The following release notes describe the new features and identify the critical open issues for StorSimple 8000 Series Update 2. They also contain a list of the StorSimple software, driver, and disk firmware updates included in this release. 
 
-Update 2 can be applied to any StorSimple device running Release (GA) or Update 0.1 through Update 1.2. 
+Update 2 can be applied to any StorSimple device running Release (GA) or Update 0.1 through Update 1.2. The device software version associated with Update 2 is 6.3.9600.17673.
 
 Please review the information contained in the release notes before you deploy the update in your StorSimple solution.
 
