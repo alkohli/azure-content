@@ -114,3 +114,6 @@ This release updates the driver and the disk firmware on your device.
 
 This update cannot be applied to the virtual device. New virtual devices will need to be created. 
 
+## Next step
+
+Learn how to [Install Update 2](storsimple-install-update-2.md) on your StorSimple device.
