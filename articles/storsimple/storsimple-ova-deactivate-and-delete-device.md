@@ -12,7 +12,7 @@
    ms.topic="article"
    ms.tgt_pltfrm="na"
    ms.workload="na"
-   ms.date="02/08/2016"
+   ms.date="02/16/2016"
    ms.author="alkohli" />
 
 # Deactivate and delete a StorSimple Virtual Array
@@ -46,7 +46,7 @@ Perform the following steps to deactivate your device.
 
 #### To deactivate the device   
 
-1. Go to **Devices** page. Select the device that you wish to deactivate.
+1. Go to the **Devices** page. Select the device that you wish to deactivate.
 
 	![Select device to deactivate](./media/storsimple-ova-deactivate-and-delete-device/deactivate1m.png)
 
@@ -70,7 +70,7 @@ Perform the following steps to deactivate your device.
 
 ## Delete the device
 
-A device has to be first deactivated in order to delete it. Deleting a device removes it from the list of devices connected to the service. The service can then no longer manage the deleted device. The data associated with the device will however remain in the cloud. Be aware that this data will then accrue charges. 
+A device has to be deactivated before you can delete it. Deleting a device removes it from the list of devices connected to the service. The service can then no longer manage the deleted device. The data associated with the device will however remain in the cloud. Be aware that this data will then accrue charges. 
 
 Complete the following steps to delete the device:
 
